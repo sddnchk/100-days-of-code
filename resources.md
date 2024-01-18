@@ -1,3 +1,92 @@
+Calculate age in seconds
+Sticky Navigation
+Click and drag to scroll
+Countdown clock
+Click outside modal to close
+Tabs
+New year countdown
+Distance Between Two Cities
+Tax Calculator
+Reverse a String
+pig latin
+Count Vowels
+Count Words in a String
+Get Atomic Time from Internet Clock
+Hold shift to check multiple checkboxes
+Easteregg keysequence detection
+Slide in on scroll
+HTML 5 video player
+Speed controller for video
+Form validator
+Exchange rate calc
+Menu slider & modal
+Sortable list
+Find pi to the nth digit
+Mortgage Calculator
+Unit Converter (temp, currency, volume, mass and more
+Credit Card Validator
+Number Names - Show how to spell out a number in English
+Coin Flip Simulation
+Fizz Buzz
+Check if Palindrome
+Create A Progress Bar for Downloads
+Fetch Current Weather
+Name generator
+Rock paper scissor
+Find the largest number in an array and print position
+Graphical digital clock
+Calculate users typing speed
+Image gallery
+Ajax type ahead
+Draw on canvas
+Etch a sketch
+Face detection and censorship
+Sarcastic text generator
+Shopping form with custom events
+Building a gallery
+Building a slider
+Dad jokes
+Currency converter
+Web speech colours game
+Movie seat booking
+Custom video player
+Hangman game
+Meal finder
+Expense tracker
+Music player
+Typing game
+Memory cards
+Lyrics search app
+Relaxer App
+Breakout game
+Speak number guessing game
+Find Cost of Tile to Cover W x H Floor
+Calculator
+Text Editor
+Guestbook / Journal
+Online White Board -
+Turtle Graphics
+Rock paper scissors lizzard spock
+Password generator
+Haiku generator
+Magic 8 ball
+Text adventure game
+Snake game
+Css grid from form input
+Flex layout from form input
+Whack a mole game
+Audio visualization
+Classic Games
+Pong
+Astroids
+Pacman
+Multi sort & filter list (sort by different values, also filter values)
+2D platform game
+Circle with smaller circles in it that move a straight line but appear to be cirling (https://imgur.com/a/aOnzerj)
+Pixelart Editor
+create an OS with JS
+
+
 # Primary Resources on the #100DaysOfCode
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
